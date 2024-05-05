@@ -1,5 +1,4 @@
 
-
 ---
 
 # E-commerce Website for Clothes
@@ -8,7 +7,7 @@ Welcome to our e-commerce website for clothes! This project is built using JavaS
 
 ## Live Demo
 
-Explore the live demo of the website [here](#)!
+Explore the live demo of the website [here](https://bytewizard18.github.io/EcommerceWebsite/)!
 
 ## Getting Started
 
